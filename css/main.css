@@ -1281,7 +1281,7 @@ hr {
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
 	background-size: cover !important;
-	padding-top: 66px;
+	padding-top: 200px;
 	padding-bottom: 900px;
 	width: 100%;
 	text-align: center;
@@ -1571,11 +1571,10 @@ hr {
 	transition: all 0.3s ease-in-out;
 }
 .portfolio-item .item-wrap a { display: block; }
-.portfolio-item .portfolio-item-meta { padding: 12px 0; }
 .portfolio-item .portfolio-item-meta h5 a {
-   font: 16px/24px montserrat-bold, sans-serif;
-   color: #dc1e28;
-   margin-left: 7%;
+   font: 16px/18px "merriweather-light", sans-serif;
+   text-align: center;
+   color: #202020;
 }
 
 /* on hover */
@@ -1599,10 +1598,7 @@ hr {
 .reveal-modal {
    visibility: hidden;
 	top: 100px;
-	left: 50%;
-	margin-left: -300px;
-   width: 600px;
-	max-width: 600px;
+    width: 100%;
 	background: #fff;
 	position: absolute;
 	z-index: 101;
@@ -1612,6 +1608,7 @@ hr {
 	-webkit-box-shadow: 0 0 10px rgba(0,0,0,.4);
 	-box-shadow: 0 0 10px rgba(0,0,0,.4);
 }
+.reveal-modal img { width: 100%; }
 .reveal-modal .description-box { padding: 18px 36px; }
 .reveal-modal .description-box h4 {
    font: 15px/24px montserrat-bold, sans-serif;
@@ -1646,7 +1643,7 @@ hr {
    cursor: pointer;
 }
 .reveal-modal a:hover {	color: #00CCCC; }
-.reveal-modal a.close-reveal-modal { margin-left: 28px; }
+.reveal-modal a.close-modal-text { margin-left: 40px; }
 
 
 
