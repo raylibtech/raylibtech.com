@@ -112,4 +112,4 @@ By using `rImageShield`, the user agrees to be bound by the terms of the EULA.
 
 Check included `End User License Agreement` document for details (EULA.txt).
 
-*Copyright (c) 2022-2024 raylib technologies ([@raylibtech](https://twitter.com/raylibtech))*
+*Copyright (c) 2022-2024 raylib technologies ([@raylibtech](https://github.com/raylibtech))*

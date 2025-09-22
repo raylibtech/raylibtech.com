@@ -187,4 +187,4 @@ By using `rTexViewer`, the user agrees to be bound by the terms of the EULA.
 
 Check included `End User License Agreement` document for details (EULA.txt).
 
-*Copyright (c) 2015-2024 raylib technologies ([@raylibtech](https://twitter.com/raylibtech)) | Ramon Santamaria ([@raysan5](https://twitter.com/raysan5))*
+*Copyright (c) 2015-2024 raylib technologies ([@raylibtech](https://github.com/raylibtech)) | Ramon Santamaria ([@raysan5](https://github.com/raysan5))*
